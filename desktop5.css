@@ -1,0 +1,296 @@
+.head{
+    display: flex;
+    max-width: 100%;
+    margin-top: 15px;
+    margin-left: 31px;
+}
+.uniform{
+    font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+
+color: #5950C8;
+}
+.navigation{
+    display: flex;
+    margin-top: 20px;
+    padding-left: 1050px;
+  
+}
+.sign{
+    display: flex;
+    padding: 0 15px;
+}
+.cart{
+    
+    display: flex;
+}
+/* .user{
+    font-family: Montserrat;
+
+font-weight: 600;
+} */
+.login{
+    margin-top: -15px;
+    padding-left: 8px;
+    padding-right: 25px;
+    font-family: Montserrat;
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+color: #323232;
+}
+.add{
+    font-family: Montserrat;
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+color: #323232;
+padding-left: 8px;
+}
+
+#your{
+    font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 29px;
+margin-left: 55px;
+
+/* Black */
+
+color: #323232;
+}
+.buying{
+    display: grid;
+    grid-template-columns: 60%  40%;
+    margin: 25px;
+   
+    padding-top: 45px;
+    
+}
+.shopping{
+    display: flex;
+    margin-left: 40px;
+    border-bottom: 1px solid #EAEAEA;
+    
+}
+.img10{
+
+    border: 1px solid #ECECEC;
+box-sizing: border-box;
+border-radius: 8px;
+padding: 25px;
+}
+
+.frocks
+ {
+    padding-left: 24px;
+
+}
+.for{
+    font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+}
+
+/* .bar{
+    padding-top: 55px;
+    display: flex;
+    justify-content: flex-start;
+   
+} */
+.shopping{
+    display: grid;
+    grid-template-columns: 20% 70%;
+}
+
+.bar{
+    display: flex;
+   
+   padding-right: 20px;
+}
+
+#cla2{
+    font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+
+/* or 12px */
+
+
+color: #928888;
+        
+}
+
+.cla1{
+        display: flex;
+        padding-top: 10px;
+       
+       
+}
+.vector8{
+    padding-top: 18px;
+    padding-left: 10px;
+    border-color:#928888 ;
+}
+#cla1{
+    padding-right: 75px;
+}
+.crossed{
+    margin-bottom: 25px;
+    padding-left: 68px;
+    font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+
+
+display: flex;
+align-items: center;
+text-decoration-line: line-through;
+padding-top: 6px;
+
+color: #928888;
+}
+.kvy{
+    display: flex;
+}
+.paisa{
+    font-family: Montserrat;
+
+font-weight: bold;
+font-size: 14px;
+
+
+color: #323232;
+    padding-left: 210px;
+}
+#remove{
+    font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+
+
+text-decoration-line: underline;
+
+color: #EC2E2E;
+}
+.calculation{
+    width: 424px;
+height: 400px;
+
+border: 1px solid #ECECEC;
+box-sizing: border-box;
+border-radius: 8px;
+margin-left: 105px;
+margin-bottom: 45px;
+
+
+}
+.promo{
+    display: flex;
+    margin-left: 5px;
+    
+}
+.coupon{
+    margin: 15px;
+}
+.arrow{
+    padding-top:15px ;
+    margin: 0 7px;
+}
+.question{
+    padding-top:18px ;
+   
+}
+.code{
+    font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+}
+.sub1{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 19px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-size: 12px;
+}
+.sub2{
+        display: flex;
+        margin-left: 19px;
+}
+.totals{
+    display: flex;
+    font-family: Montserrat;
+    font-size: 12px;
+}
+#question1{
+    padding-top:17px ;
+    padding-left: 5px;
+}
+.mole{
+    padding-left: 110px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    color: #928888;
+}
+.estimated{
+    padding-left: 10px;
+    font-family: Montserrat;
+    font-style: normal;
+}
+.mole1{
+    padding-left: 200px;
+    font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+color: #928888;
+}
+.all{
+    display: flex;
+    margin: 0 17px;
+    padding-top: 12px;
+    border-top: 1px solid #EAEAEA;
+    border-bottom: 1px solid #EAEAEA;
+    padding-bottom: 4px;
+}
+.final{
+   padding-left: 280px;
+    
+}
+.blue{
+    margin-top: 15px;
+    
+    margin-left: 28px;
+    margin-right: 28px;
+    text-align: center;
+    border-radius: 35px;
+    background: #5950C8;
+    color: white;
+    font-family: Montserrat;
+font-style: normal;
+font-weight: 600;
+    padding: 10px;
+}
+.checkout{
+
+
+}
+.main{
+    margin-top: 10px;
+    padding-left: 18px;
+    font-family: Montserrat;
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+}

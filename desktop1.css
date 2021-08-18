@@ -1,0 +1,148 @@
+
+.head{
+    display: flex;
+    max-width: 100%;
+    margin-top: 15px;
+    margin-left: 31px;
+}
+.uniform{
+    font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+
+color: #5950C8;
+}
+.navigation{
+    display: flex;
+    margin-top: 20px;
+    padding-left: 1050px;
+  
+}
+.sign{
+    display: flex;
+    padding: 0 15px;
+}
+.cart{
+    
+    display: flex;
+}
+/* .user{
+    font-family: Montserrat;
+
+font-weight: 600;
+} */
+.login{
+    margin-top: -15px;
+    padding-left: 8px;
+    padding-right: 25px;
+    font-family: Montserrat;
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+color: #323232;
+}
+.add{
+    font-family: Montserrat;
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+color: #323232;
+padding-left: 8px;
+}
+.sign:hover,.cart:hover,.login:hover,.add:hover{
+    color: #5950C8;
+}
+.dress{
+    width: 85%;
+    margin-left: 55px;
+    display: grid;
+    grid-template-rows: 150px 400px 400px;
+    grid-gap: 15px;
+    grid-template-columns: repeat(3,1fr)200px;
+}
+.schoolName{
+    grid-column: 1/-1;
+   margin-left: 25px;
+    width: 550px;
+    height: 240px;
+   
+}
+.filter{
+    grid-row: 2/6;
+    /* background-color: royalblue; */
+}
+.schoolUniform{
+    background-color: slategrey;
+}
+.image14{
+    padding-top: 18px;
+    width: 40;
+   
+}
+.content{
+    float: right;
+    margin-left: 10px;
+    padding-right: 95px;
+    
+}
+.moto{
+    float: left;
+    
+}
+.address{
+    font-family:montserrat;
+    font-size: 11px;
+
+}
+.card1{
+       width: 298px;
+       height: 385px;
+       margin-left: 35px;
+       background: #FFFFFF;
+     margin-right: 15px;
+    
+    
+box-shadow: 0px 0px 8px 1px rgba(0, 0, 0, 0.12);
+border-radius: 8px;
+
+}
+.card2{
+    width: 298px;
+    height: 385px;
+    margin-left: 35px;
+    background: #FFFFFF;
+box-shadow: 0px 0px 8px 1px rgba(0, 0, 0, 0.12);
+border-radius: 8px;
+
+}
+.card3{
+    width: 298px;
+    height: 385px;
+    margin-left: 35px;
+    background: #FFFFFF;
+box-shadow: 0px 0px 8px 1px rgba(0, 0, 0, 0.12);
+border-radius: 8px;
+
+}
+.girl{
+    padding-left: 37px;
+    padding-top: 15px;
+}
+#title{
+    padding-left: 25px;
+    font-family: Montserrat;
+    font-size: 14px;
+}
+#price{
+    padding-left: 25px;
+}
+.skirt{
+    padding-left: 37px;
+    padding-top: 15px;
+    padding-bottom: 18px;
+}
+.boy{
+    padding-bottom: 28px;
+    padding-top: 10px;
+}
